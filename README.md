@@ -43,7 +43,7 @@ Features:
 [![Retro Galactic Gameplay](https://img.youtube.com/vi/4a9hm5AYlis/0.jpg)](https://www.youtube.com/watch?v=4a9hm5AYlis)
 
 Repository  
-https://github.com/atakaanaktas-JGM/retro-galactic
+https://github.com/atakaanaktas-JGM/retrogalactic
 
 ---
 
