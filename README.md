@@ -1,101 +1,103 @@
 # Ata Kaan Aktaş
 
-Unity Game Developer | Computer Engineering Graduate
+Unity Gameplay Programmer | Computer Engineering Graduate
 
-I am a game developer focused on building gameplay systems and mechanics using Unity and C#.
+Focused on building scalable gameplay systems, performance-oriented mobile architecture, and game feel engineering using Unity and C#.
 
 ---
 
 # Projects
 
-## TileVenture
-2D platformer puzzle game developed with Unity.
+## TileVenture — Released (Google Play Store)
+2D platformer puzzle game developed in Unity.
 
-Features:
-- Tilemap based level design
-- Player movement mechanics
-- Enemy movement system
-- Coin collection
-- Level exit mechanics
+### Gameplay Systems
+- Tilemap-based procedural level structure
+- Player movement and interaction system
+- Enemy behavior system (basic AI logic)
+- Level progression and completion flow
+- Coin collection and reward loop
+- UI-driven game flow management
+- Object pooling for performance optimization (effects / runtime objects)
 
-### Gameplay Video
+### Media
+Gameplay Video: https://www.youtube.com/watch?v=fU6F1c88j10
 
-[![TileVenture Gameplay](https://img.youtube.com/vi/fU6F1c88j10/0.jpg)](https://www.youtube.com/watch?v=fU6F1c88j10)
-
-Repository  
-https://github.com/atakaanaktas-JGM/TileVenture
-
----
-
-## Retro Galactic
-2D endless space shooter developed with Unity.
-
-Features:
-- Endless enemy waves
-- Shooting mechanics
-- Enemy pathfinding
-- Health and damage system
-- Score tracking
-- Camera shake effects
-
-### Gameplay Video
-
-[![Retro Galactic Gameplay](https://img.youtube.com/vi/4a9hm5AYlis/0.jpg)](https://www.youtube.com/watch?v=4a9hm5AYlis)
-
-Repository  
-https://github.com/atakaanaktas-JGM/retrogalactic
+### Links
+Repository: https://github.com/atakaanaktas-JGM/TileVenture  
+Google Play Store: (add hyperlink here)
 
 ---
 
-## Shinobicalypse: Ninja Runner
+## Retro Galactic — Closed Beta
+2D endless space shooter built with Unity.
 
-Endless runner mobile game currently in development.
+### Gameplay Systems
+- Wave-based enemy spawning system
+- Shooting and projectile system
+- Enemy movement and pathing logic
+- Health / damage system architecture
+- Score and progression system
+- Camera shake and feedback systems
+- Object pooling system for high entity count performance
+- State machine-based enemy behavior architecture
 
-Core Gameplay:
-- Lane based movement
-- Obstacle avoidance
-- Score progression
-- Fast paced runner mechanics
+### Media
+Gameplay Video: https://youtube.com/shorts/4a9hm5AYlis
 
-Repository  
-https://github.com/atakaanaktas-JGM/Shinobicalypse-NinjaRunner
-
-Status  
-Currently in development.
-
----
-
-## Unity Game Mechanics Experiments
-
-Collection of gameplay mechanic experiments developed with Unity.
-
-Implemented systems:
-- Player movement mechanics
-- Enemy behaviour experiments
-- Shooting systems
-- Collision systems
-- Gameplay logic testing
-
-Repository  
-https://github.com/atakaanaktas-JGM/unity-game-mechanics
+### Links
+Repository: https://github.com/atakaanaktas-JGM/retrogalactic
 
 ---
 
-# Technologies
+## Shinobicalypse: Ninja Runner — In Development
+Mobile endless runner focused on fast-paced gameplay and responsiveness.
 
-- Unity
-- C#
-- Gameplay Programming
-- Animation Systems
-- Unity Timeline
-- Game Mechanics Design
+### Core Gameplay Systems
+- Lane-based movement system
+- Obstacle avoidance mechanics
+- Score progression system
+- Speed-based difficulty scaling
+- Object pooling system for obstacles and enemies
+- State machine-based enemy/obstacle behavior logic
+- Game feel systems (slow motion, camera feedback, VFX sync)
+
+### Links
+Repository: https://github.com/atakaanaktas-JGM/Shinobicalypse-NinjaRunner
+
+Status: Active development
+
+---
+
+## Gameplay Systems Lab
+A collection of Unity gameplay prototypes focused on core mechanics design.
+
+### Implemented Systems
+- Player movement systems (various prototypes)
+- Enemy AI behavior experiments
+- Shooting / combat systems
+- Collision and interaction systems
+- Core gameplay loop testing
+- Performance and architecture experiments
+
+### Links
+Repository: https://github.com/atakaanaktas-JGM/unity-game-mechanics
+
+---
+
+# Core Expertise
+
+- Unity Gameplay Programming
+- C# System Architecture
+- Game Systems Design
+- Object Pooling & Performance Optimization
+- AI State Machine Design
+- Mobile Game Optimization
+- Game Feel Engineering (camera, VFX, feedback systems)
 
 ---
 
 # Contact
 
-Email  
-aktasatakaan@gmail.com
-
-GitHub  
-https://github.com/atakaanaktas-JGM
+Email: aktasatakaan@gmail.com  
+GitHub: https://github.com/atakaanaktas-JGM
