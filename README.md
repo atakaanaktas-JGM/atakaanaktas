@@ -14,11 +14,11 @@ Focused on building scalable gameplay systems, performance-oriented mobile archi
 ### Gameplay Systems
 - Tilemap-based procedural level structure
 - Player movement and interaction system
-- Enemy behavior system (basic AI logic)
+- Enemy behavior system 
 - Level progression and completion flow
 - Coin collection and reward loop
 - UI-driven game flow management
-- Object pooling for performance optimization (effects / runtime objects)
+
 
 ### Media
 [![TileVenture Gameplay](https://img.youtube.com/vi/fU6F1c88j10/0.jpg)](https://www.youtube.com/watch?v=fU6F1c88j10)
@@ -28,28 +28,6 @@ Repository: https://github.com/atakaanaktas-JGM/TileVenture
 Google Play Store: (add hyperlink here)
 
 ---
-
-## Retro Galactic — Closed Beta
-2D endless space shooter built with Unity.
-
-### Gameplay Systems
-- Wave-based enemy spawning system
-- Shooting and projectile system
-- Enemy movement and pathing logic
-- Health / damage system architecture
-- Score and progression system
-- Camera shake and feedback systems
-- Object pooling system for high entity count performance
-- State machine-based enemy behavior architecture
-
-### Media
-Gameplay Video: https://youtube.com/shorts/4a9hm5AYlis
-
-### Links
-Repository: https://github.com/atakaanaktas-JGM/retrogalactic
-
----
-
 ## Shinobicalypse: Ninja Runner — In Development
 Mobile endless runner focused on fast-paced gameplay and responsiveness.
 
@@ -64,6 +42,29 @@ Mobile endless runner focused on fast-paced gameplay and responsiveness.
 
 ### Links
 Repository: https://github.com/atakaanaktas-JGM/Shinobicalypse-NinjaRunner
+
+---
+
+## Retro Galactic — Closed Beta
+2D endless space shooter built with Unity.
+
+### Gameplay Systems
+- Wave-based enemy spawning system
+- Shooting and projectile system
+- Enemy movement and pathing logic
+- Health / damage system architecture
+- Score and progression system
+- Camera shake and feedback systems
+
+### Media
+[![Retro Galactic Gameplay](https://img.youtube.com/vi/4a9hm5AYlis/0.jpg)](https://www.youtube.com/watch?v=4a9hm5AYlis)
+
+### Links
+Repository: https://github.com/atakaanaktas-JGM/retrogalactic
+
+---
+
+
 
 Status: Active development
 
