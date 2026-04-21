@@ -21,7 +21,7 @@ Focused on building scalable gameplay systems, performance-oriented mobile archi
 - Object pooling for performance optimization (effects / runtime objects)
 
 ### Media
-Gameplay Video: https://www.youtube.com/watch?v=fU6F1c88j10
+[![TileVenture Gameplay](...)] Gameplay Video: https://www.youtube.com/watch?v=fU6F1c88j10
 
 ### Links
 Repository: https://github.com/atakaanaktas-JGM/TileVenture  
