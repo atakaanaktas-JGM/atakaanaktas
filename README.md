@@ -25,7 +25,7 @@ Focused on building scalable gameplay systems, performance-oriented mobile archi
 
 ### Links
 Repository: https://github.com/atakaanaktas-JGM/TileVenture  
-Google Play Store: (add hyperlink here)
+[Google Play Store → TileVenture](https://play.google.com/store/apps/details?id=com.JuggerMindStudios.TileVenture&hl=tr)
 
 ---
 ## Shinobicalypse: Ninja Runner — In Development
