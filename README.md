@@ -40,6 +40,8 @@ Mobile endless runner focused on fast-paced gameplay and responsiveness.
 - State machine-based enemy/obstacle behavior logic
 - Game feel systems (slow motion, camera feedback, VFX sync)
 
+### Media
+[![Shinobicalypse GamePlay](https://img.youtube.com/vi/U0l76m79inw/0.jpg)](https://www.youtube.com/watch?v=U0l76m79inw)
 ### Links
 Repository: https://github.com/atakaanaktas-JGM/Shinobicalypse-NinjaRunner
 
