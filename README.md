@@ -28,7 +28,7 @@ Repository: https://github.com/atakaanaktas-JGM/TileVenture
 [Google Play Store → TileVenture](https://play.google.com/store/apps/details?id=com.JuggerMindStudios.TileVenture&hl=tr)
 
 ---
-## Shinobicalypse: Ninja Runner — In Development
+## Shinobicalypse: Ninja Runner — Released (Google Play Store)
 Mobile endless runner focused on fast-paced gameplay and responsiveness.
 
 ### Core Gameplay Systems
